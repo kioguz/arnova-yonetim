@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+matplotlib
+streamlit-option-menu
+libsql-experimental
